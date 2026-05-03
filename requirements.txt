@@ -28,6 +28,7 @@ pure_eval==0.2.3
 pydantic==2.13.3
 pydantic_core==2.46.3
 Pygments==2.20.0
+pygraphviz==1.14
 PyYAML==6.0.3
 requests==2.33.1
 requests-toolbelt==1.0.0
